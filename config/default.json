@@ -1,3 +1,4 @@
 {
-  "mongoURI": "mongodb+srv://jmreyesortiz:sealftw1@devconnector.bz85k.mongodb.net/DevConnector?retryWrites=true&w=majority"
+  "mongoURI": "mongodb+srv://jmreyesortiz:sealftw1@devconnector.bz85k.mongodb.net/DevConnector?retryWrites=true&w=majority",
+  "jwtSecret": "mysecrettoken"
 }
