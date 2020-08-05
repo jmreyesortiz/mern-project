@@ -6,7 +6,7 @@ import { deleteEducation } from '../../actions/profile';
 
 const Education = ({ education, deleteEducation }) => {
   const educations = education.map((edu) => (
-    <tr key={edu.id}>
+    <tr key={edu._id}>
       <td>{edu.school}</td>
       <td className="hid-sm">{edu.degree}</td>
       <td>
@@ -46,7 +46,7 @@ const Education = ({ education, deleteEducation }) => {
 };
 
 Education.propTypes = {
-  experience: PropTypes.array.isRequired,
+  education: PropTypes.array.isRequired,
   deleteEducation: PropTypes.func.isRequired,
 };
 
