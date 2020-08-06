@@ -23,7 +23,7 @@ This is a social network for developers written in React.JS . For the backend Mo
 
 ### Website Link
 
-[Dev-Connector](https://jmreyesortiz.com)]
+[Dev-Connector](https://hidden-mountain-86026.herokuapp.com/)
 
 ### Screenshots
 
